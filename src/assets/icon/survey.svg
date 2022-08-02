@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>实时数据</title>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-350.000000, -481.000000)" id="编组-32">
+            <g transform="translate(320.000000, 166.000000)">
+                <g id="编组-31" transform="translate(0.000000, 291.000000)">
+                    <g id="实时数据" transform="translate(30.000000, 24.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#B7BCC6" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                            <g transform="translate(5.000000, 5.000000)">
+                                <rect id="矩形" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                                <path d="M2.45478788,3.81818182 L4.2729697,3.81818182 C4.52363636,3.81818182 4.72727273,4.02181818 4.72727273,4.27248485 L4.72727273,12 L2,12 L2,4.27248485 C2,4.02181818 2.20363636,3.81818182 2.45478788,3.81818182 Z M6.09115152,2 L7.90933333,2 C8.15999999,2 8.36363637,2.20363636 8.36363637,2.45430303 L8.36363637,12 L5.63636363,12 L5.63636363,2.45430303 C5.63636363,2.20363636 5.83999999,2 6.09115152,2 Z M9.72751515,6.54545455 L11.545697,6.54545455 C11.7963636,6.54545455 12,6.74909091 12,6.99975757 L12,12 L9.27272727,12 L9.27272727,6.99975757 C9.27272727,6.74909091 9.47636364,6.54545455 9.72751515,6.54545455 Z" id="形状"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

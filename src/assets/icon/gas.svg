@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>火焰</title>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1000.000000, -1034.000000)" id="编组-32">
+            <g transform="translate(320.000000, 166.000000)">
+                <g id="编组-31" transform="translate(0.000000, 291.000000)">
+                    <g id="每日全网算力走势图" transform="translate(0.000000, 551.000000)">
+                        <g transform="translate(650.000000, 2.000000)" id="火焰">
+                            <g transform="translate(30.000000, 24.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="蒙版" fill="#B7BCC6" xlink:href="#path-1"></use>
+                                <g mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g transform="translate(5.000000, 5.000000)">
+                                        <rect id="矩形" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                                        <path d="M10.5,4.55 L9.45,5.6 C9.45,5.6 9.45,1.4 5.95,0 C5.95,0 5.6,3.85 3.85,5.25 C2.1,6.65 -1.4,10.85 5.6,14 C5.6,14 2.1,10.15 6.65,7.35 C6.65,7.35 6.3,8.75 8.05,10.15 C9.8,11.55 8.05,14 8.05,14 C8.05,14 16.45,11.9 10.5,4.55 Z" id="路径"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

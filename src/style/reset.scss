@@ -1,0 +1,101 @@
+@import 'variables';
+#app {
+    .el-dropdown {
+        color: #fff;
+    }
+    .el-input {
+        .el-input__inner {
+            border-radius: 0.5rem;
+        }
+    }
+    .el-radio-button.is-active {
+        box-shadow: none;
+    }
+    .el-radio-button-inner:hover {
+        background: $--color-primary;
+        border: 2px;
+    }
+    .el-table{
+        .el-table__header {
+            .el-table__cell {
+                color: #2B2C2D;
+                height: 3rem;
+                background: #F7FAFD80;
+                border: none;
+            }
+        }
+        .el-table__cell {
+            border-color: #F5F9F9FF;
+            //padding: 8px 0;
+            .cell {
+                word-break: break-all;
+            }
+        }
+    }
+    .el-pagination {
+        button {
+            border-radius: 0.25rem;
+            border: 0.03rem solid #E5E5E5;
+        }
+        .el-pager {
+            li {
+                border-radius: 0.25rem;
+                border: 0.03rem solid #E5E5E5;
+            }
+        }
+    }
+    .el-pagination--small {
+        .el-pagination__jump {
+            margin-top: 0.5rem;
+            font-size: 0.75rem;
+        }
+    }
+    .el-button {
+        height: fit-content;
+    }
+    .el-button--default.isplain {
+        color: $--color-primary;
+        background: #ecf5ff;
+        border-color: $--color-primary;
+    }
+    .header {
+        .el-collapse-item__content {
+            padding-bottom: 15px;
+        }
+        .el-collapse, .el-collapse-item__wrap {
+            border: 0;
+        }
+        .el-collapse-item__header {
+            height: 36px;
+            line-height: 36px;
+            border: 0;
+        }
+    }
+
+    .el-card__header {
+        padding: 8px 20px;
+    }
+    .el-card__body {
+        padding: 15px 12px;
+    }
+    // 重置message样式
+    .el-message {
+        padding: 8px 16px;
+        min-width: 150px;
+        box-shadow: 0 2px 6px rgba(0,0,0,.2);
+        pointer-events: all;
+        border-radius: 4px;
+        background-color: #fff;
+        border-color: #fff;
+        .el-icon-warning {
+            color: #f90;
+        }
+        .el-icon-success {
+            color: #19be6b;
+        }
+        .el-message__content {
+            color: #515a6e;
+        }
+    }
+}
+

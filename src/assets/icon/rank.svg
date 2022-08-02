@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 27</title>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-350.000000, -2482.000000)" id="编组-32">
+            <g transform="translate(320.000000, 166.000000)">
+                <g id="编组-31" transform="translate(0.000000, 291.000000)">
+                    <g id="节点排行" transform="translate(0.000000, 2004.000000)">
+                        <g id="编组-22" transform="translate(30.000000, 16.000000)">
+                            <g id="编组-27" transform="translate(0.000000, 5.000000)">
+                                <circle id="椭圆形" fill="#B7BCC6" cx="12" cy="12" r="12"></circle>
+                                <g id="节点管理" transform="translate(5.000000, 4.500000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <rect id="矩形" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                                    <path d="M12.3511864,7.76186441 L9.71186441,7.76186441 L8.59694915,6.09559322 L10.1111864,3.5 L8.47779661,0.7 L5.18,0.7 L3.53881356,3.5 L5.13457627,6.22254237 L4.09033898,7.78559322 L1.64881356,7.78559322 L0,10.5847458 L1.64881356,13.3847458 L4.93898305,13.3847458 L6.32474576,11.020339 L7.68898305,11.020339 L9.06186441,13.3615254 L12.3511864,13.3615254 L14,10.5618644 L12.3511864,7.76186441 Z M4.97932203,7.85423729 L6.0179661,6.29966102 L7.79525424,6.29966102 L8.92610169,7.99152542 L7.60694915,10.2423729 L6.37949153,10.2423729 L4.97932203,7.85423729 Z" id="形状"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
